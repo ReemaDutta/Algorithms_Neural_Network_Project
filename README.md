@@ -1,2 +1,2 @@
 # 6205FinalProject
-Final project report is [here](https://github.com/lingfengzhou/6205FinalProject/blob/master/report/FinalProjectReport.pdf)
+Final project report is [here](https://github.com/ReemaDutta/Algorithms_Neural_Network_Project/blob/master/report/FinalProjectReport.pdf)
